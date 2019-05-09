@@ -1,6 +1,6 @@
 # tab_app
 
-A new Flutter project.
+A  Flutter project using the tabs functionality.
 
 ## Getting Started
 
